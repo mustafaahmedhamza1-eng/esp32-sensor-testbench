@@ -1,0 +1,7 @@
+================================
+ESP32 DS18B20 Temperature Test
+================================
+[PASS] OLED detected at address 0x3C
+DS18B20 sensors detected: 0
+[FAIL] DS18B20 was not detected
+Check power, ground, data wire, and pull-up resistor.

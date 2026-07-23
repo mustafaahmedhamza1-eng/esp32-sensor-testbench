@@ -1,0 +1,29 @@
+[PASS] OLED detected at address 0x3C
+Scanning SHT31 sensor bus
+[PASS] SHT31 detected at address 0x44
+[PASS] SHT31 initialization completed
+
+Sample,Temperature_C,Humidity_Percent
+1,31.51,40.14
+2,31.53,40.33
+3,31.53,40.40
+4,31.54,40.33
+5,31.53,40.29
+6,31.53,40.13
+7,31.53,40.22
+8,31.51,40.25
+9,31.51,40.11
+10,31.51,40.09
+
+================================
+SHT31 Test Summary
+================================
+Valid samples: 10/10
+Average temperature: 31.52 C
+Temperature range: 31.51 to 31.54 C
+Average humidity: 40.23 %
+Humidity range: 40.09 to 40.40 %
+[PASS] SHT31 produced valid environmental data
+Overall result: PASS
+
+Press the ESP32 RST button to run the test again.

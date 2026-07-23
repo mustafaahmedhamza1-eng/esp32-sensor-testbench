@@ -1,0 +1,8 @@
+
+================================
+ESP32 MAX30102 Raw Signal Test
+================================
+[PASS] OLED detected at address 0x3C
+Scanning MAX30102 I2C bus
+[FAIL] MAX30102 was not detected at address 0x57
+Check power, ground, SDA, and SCL.

@@ -1,0 +1,31 @@
+
+================================
+ESP32 DS18B20 Temperature Test
+================================
+[PASS] OLED detected at address 0x3C
+DS18B20 sensors detected: 1
+[PASS] DS18B20 detected
+[PASS] Sensor initialization completed
+
+Sample,Temperature_C
+1,28.44
+2,28.50
+3,28.44
+4,28.50
+5,28.50
+6,28.50
+7,28.50
+8,28.50
+9,28.50
+10,28.50
+
+================================
+DS18B20 Test Summary
+================================
+Valid samples: 10/10
+Average temperature: 28.49 C
+Temperature range: 28.44 to 28.50 C
+[PASS] DS18B20 produced valid temperature data
+Overall result: PASS
+
+Press the ESP32 RST button to run the test again.

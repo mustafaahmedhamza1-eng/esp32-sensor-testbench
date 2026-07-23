@@ -1,0 +1,42 @@
+
+================================
+ESP32 MAX30102 Raw Signal Test
+================================
+[PASS] OLED detected at address 0x3C
+Scanning MAX30102 I2C bus
+[PASS] MAX30102 detected at address 0x57
+[PASS] MAX30102 initialization completed
+[INFO] Place a finger gently on the sensor
+
+Sample,RED,IR
+1,63585,54372
+2,65425,54335
+3,65460,54468
+4,65497,54531
+5,65423,54447
+6,65453,54508
+7,65465,54434
+8,65335,54270
+9,65317,54322
+10,65255,54182
+11,65252,54193
+12,65310,54154
+13,65285,54178
+14,65298,54266
+15,65270,54176
+16,65281,54190
+17,65267,54075
+18,65264,54123
+19,65290,54115
+20,65268,54095
+
+================================
+MAX30102 Test Summary
+================================
+Valid samples: 20/20
+RED range: 63585 to 65497
+IR range: 54075 to 54531
+[PASS] MAX30102 produced valid raw optical data
+Overall result: PASS
+
+Press the ESP32 RST button to run the test again.

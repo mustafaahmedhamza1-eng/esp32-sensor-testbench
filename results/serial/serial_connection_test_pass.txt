@@ -1,0 +1,8 @@
+ESP32 connection test
+Serial communication is working
+ESP32 is running
+ESP32 is running
+ESP32 is running
+ESP32 is running
+ESP32 is running
+Test result: PASS

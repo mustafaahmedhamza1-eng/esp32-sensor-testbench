@@ -1,0 +1,13 @@
+================================
+[PASS] OLED detected at address 0x3C
+[PASS] OLED library initialization completed
+[INFO] Four visual test pages will repeat
+
+Page 1: identification
+Page 2: geometry
+Page 3: checkerboard
+Page 4: all pixels
+Page 1: identification
+Page 2: geometry
+Page 3: checkerboard
+Page 4: all pixels
